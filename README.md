@@ -27,7 +27,7 @@ https://drive.google.com/file/d/12d0zWwo6Gwvh1_V9b8QNVEFyPkjvl5ce/view?usp=shari
   - Creating structured and informative Test Cases
   - Using TestRail
 
-Software "Testing Java Tasks" Test Cases - 
+Software "Testing Java Tasks" Bug Reports - 
 https://docs.google.com/spreadsheets/d/1SWBh1hR5ZlJV5Tzrg39limukILNwrheOSUuhzSXWtB0/edit?usp=sharing
 https://drive.google.com/drive/folders/1U7S5XQ3M9OtWf4s863Cep3CrBmRZBWPs?usp=sharing
   - Creating structured and informative Bug Reports
