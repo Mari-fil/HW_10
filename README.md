@@ -22,10 +22,18 @@ SQL - https://docs.google.com/spreadsheets/d/1fQogodMYj5AcQ0NaofVCilm9aziBbxe6Y4
   - Using DBeaver
   - Writing and optimizing SQL queries (SELECT, INSERT, UPDATE, DELETE).
 
-Software "Testing Java Tasks" - https://docs.google.com/spreadsheets/d/1SWBh1hR5ZlJV5Tzrg39limukILNwrheOSUuhzSXWtB0/edit?usp=sharing
+Software "Testing Java Tasks" Test Cases - https://docs.google.com/spreadsheets/d/1Az6HRMWRQ30Cli1fbymuKso090wBqBB3SnMk3prGhcg/edit?usp=sharing
+https://drive.google.com/file/d/12d0zWwo6Gwvh1_V9b8QNVEFyPkjvl5ce/view?usp=sharing
+  - Creating structured and informative Test Cases
+  - Using TestRail
+
+Software "Testing Java Tasks" Test Cases - 
+https://docs.google.com/spreadsheets/d/1SWBh1hR5ZlJV5Tzrg39limukILNwrheOSUuhzSXWtB0/edit?usp=sharing
 https://drive.google.com/drive/folders/1U7S5XQ3M9OtWf4s863Cep3CrBmRZBWPs?usp=sharing
   - Creating structured and informative Bug Reports
-  - Using TestRail
+  - Using Jira
+
+https://drive.google.com/file/d/12d0zWwo6Gwvh1_V9b8QNVEFyPkjvl5ce/view?usp=sharing
          
 Traceability Matrix - https://docs.google.com/spreadsheets/d/1JiEcyiYMWJSXjcq8809Ii2AA9n5TpW7kAWZQ0NpPOaM/edit?usp=sharing
 
